@@ -53,7 +53,7 @@ Beta Version
 - Quiz Generator
 - More personas for personalisation
 
-FUTURE SCOPE
+## FUTURE SCOPE
 
 Our goal is to offer a wide range of learning materials, including videos and articles from trusted sources across the web, enabling learners to explore content in diverse formats.
 
