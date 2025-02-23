@@ -3,6 +3,7 @@ import ollama
 import json
 import re
 import pymongo
+import webbrowser
 
 import streamlit as st
 from streamlit_flow import streamlit_flow
@@ -215,5 +216,6 @@ if st.button("Let's Learn!"):
             adult_sum(user_input)
 if st.session_state.clicked == True:
     if st.button("Generate Mind Map"):
-                adult_map(user_input)
+                webbrowser.open("http://localhost:3000/")
+                #adult_map(user_input)
         
