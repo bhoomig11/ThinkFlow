@@ -1,6 +1,8 @@
 # ThinkFlow
 
-Streamlit App and LLM user personalisation app for ThinkFlow
+Structure:
+1. Streamlit App and LLM user personalisation app for ThinkFlow
+2. Mind Map generator and accessibility
 
 ## Hackathon : Civic Hack 
 House chosen : Ravenclaw
