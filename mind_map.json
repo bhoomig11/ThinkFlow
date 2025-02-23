@@ -1,0 +1,33 @@
+{
+    "topic": "Artificial Intelligence",
+    "subtopics": [
+        {
+            "name": "Machine Learning",
+            "children": [
+                "Supervised Learning",
+                "Unsupervised Learning"
+            ]
+        },
+        {
+            "name": "Natural Language Processing",
+            "children": [
+                "Tokenization",
+                "Sentiment Analysis"
+            ]
+        },
+        {
+            "name": "Computer Vision",
+            "children": [
+                "Image Classification",
+                "Object Detection"
+            ]
+        },
+        {
+            "name": "Applications",
+            "children": [
+                "AI in Healthcare",
+                "Autonomous Vehicles"
+            ]
+        }
+    ]
+}
