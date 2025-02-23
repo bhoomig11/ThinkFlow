@@ -51,8 +51,17 @@ Mind Map generator and accessibility: https://github.com/shivani1805/react-mindm
 
 Beta Version
 - Quiz Generator
-- More personas for personalisation 
+- More personas for personalisation
 
+FUTURE SCOPE
+
+Our goal is to offer a wide range of learning materials, including videos and articles from trusted sources across the web, enabling learners to explore content in diverse formats.
+
+Key features include:
+- Interactive Learning Environment
+- Personalized Learning Pathways
+- Accessibility for All
+- Collaborative and Community Learning
 
 
 
