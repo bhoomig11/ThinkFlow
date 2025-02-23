@@ -41,6 +41,20 @@ Mind Map generator and accessibility: https://github.com/shivani1805/react-mindm
   - Mistral
   - HuggingFace
 
+## Features:
+- User personalisation
+- Summary
+- Mind Map Generator
+- Accessibility
+    1. Text-to-Speech
+    2. Reading Assistance with special font and size for textual data
+
+Beta Version
+- Quiz Generator
+- More personas for personalisation 
+
+
+
 
 
 
