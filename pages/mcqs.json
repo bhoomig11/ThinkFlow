@@ -1,0 +1,106 @@
+[
+    {
+        "question": "Question: Which machine learning algorithm is used for finding patterns in data and making predictions about future data points?",
+        "options": [
+            {
+                "option": "Linear Regression",
+                "flag": false
+            },
+            {
+                "option": "Linear Regression",
+                "flag": false
+            },
+            {
+                "option": "K-Nearest Neighbors",
+                "flag": false
+            },
+            {
+                "option": "Random Forest",
+                "flag": false
+            },
+            {
+                "option": "Decision Tree",
+                "flag": false
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "question": "Question: Which machine learning algorithm is used for finding patterns in data and making predictions about future data points?",
+        "options": [
+            {
+                "option": "Random Forest",
+                "flag": false
+            },
+            {
+                "option": "Linear Regression",
+                "flag": false
+            },
+            {
+                "option": "K-Nearest Neighbors",
+                "flag": false
+            },
+            {
+                "option": "Decision Tree",
+                "flag": false
+            },
+            {
+                "option": "Linear Regression",
+                "flag": false
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "question": "Question: Which machine learning algorithm is used for finding patterns in data and making predictions about future data points?",
+        "options": [
+            {
+                "option": "Linear Regression",
+                "flag": false
+            },
+            {
+                "option": "Random Forest",
+                "flag": false
+            },
+            {
+                "option": "Linear Regression",
+                "flag": false
+            },
+            {
+                "option": "K-Nearest Neighbors",
+                "flag": false
+            },
+            {
+                "option": "Decision Tree",
+                "flag": false
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "question": "Question: Which machine learning algorithm is used for finding patterns in data and making predictions about future data points?",
+        "options": [
+            {
+                "option": "Decision Tree",
+                "flag": false
+            },
+            {
+                "option": "Linear Regression",
+                "flag": false
+            },
+            {
+                "option": "Random Forest",
+                "flag": false
+            },
+            {
+                "option": "K-Nearest Neighbors",
+                "flag": false
+            },
+            {
+                "option": "Linear Regression",
+                "flag": false
+            }
+        ],
+        "correct_answer": null
+    }
+]

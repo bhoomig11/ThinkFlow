@@ -1,0 +1,302 @@
+2025-02-22 20:43:26,641 - INFO - Cache loaded successfully from mcq_cache.json
+2025-02-22 20:43:26,642 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:43:26,645 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-02-22 20:43:26,648 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x104fb7320>
+2025-02-22 20:43:26,648 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-02-22 20:43:26,648 - DEBUG - send_request_headers.complete
+2025-02-22 20:43:26,648 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-02-22 20:43:26,649 - DEBUG - send_request_body.complete
+2025-02-22 20:43:26,649 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-02-22 20:44:36,531 - DEBUG - receive_response_headers.failed exception=KeyboardInterrupt()
+2025-02-22 20:44:36,535 - DEBUG - response_closed.started
+2025-02-22 20:44:36,536 - DEBUG - response_closed.complete
+2025-02-22 20:46:24,220 - INFO - Cache loaded successfully from mcq_cache.json
+2025-02-22 20:46:24,221 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:46:24,221 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:46:24,221 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:46:24,221 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:46:24,221 - INFO - Cache loaded successfully from mcq_cache.json
+2025-02-22 20:46:24,222 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:46:24,222 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:46:24,222 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:46:24,222 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:46:24,222 - INFO - Cache loaded successfully from mcq_cache.json
+2025-02-22 20:46:24,222 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:46:24,222 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:46:24,222 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:46:24,222 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:46:24,222 - INFO - Cache loaded successfully from mcq_cache.json
+2025-02-22 20:46:24,222 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:46:24,222 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:46:24,222 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:46:24,222 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:46:24,222 - INFO - No MCQs generated after all attempts
+2025-02-22 20:48:29,470 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:48:29,471 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:48:29,471 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:48:29,471 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:48:29,471 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:48:29,471 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:48:29,471 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:48:29,471 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:48:29,471 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:48:29,471 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:48:29,472 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:48:29,472 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:48:29,472 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:48:29,472 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:48:29,472 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:48:29,472 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:48:29,472 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:48:29,472 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:48:29,472 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:48:29,472 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:48:29,472 - INFO - No MCQs generated after all attempts
+2025-02-22 20:50:43,886 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:50:43,887 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:50:43,887 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:50:43,887 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:50:43,888 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:50:43,888 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:50:43,888 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:50:43,888 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:50:43,888 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:50:43,888 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:50:43,888 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:50:43,888 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:50:43,888 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:50:43,888 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:50:43,888 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:50:43,888 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 20:50:43,888 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 20:50:43,888 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 20:50:43,888 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 20:50:43,888 - INFO - MCQ format invalid, skipping.
+2025-02-22 20:50:43,888 - INFO - No MCQs generated after all attempts
+2025-02-22 21:23:08,623 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:23:08,624 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:23:08,624 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:23:08,624 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:23:08,624 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:23:08,624 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:23:08,624 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:23:08,624 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:23:08,624 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:23:08,624 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:23:08,625 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:23:08,625 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:23:08,625 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:23:08,625 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:23:08,625 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:23:08,625 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:23:08,625 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of law. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:23:08,625 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:23:08,625 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:23:08,625 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:23:08,625 - INFO - No MCQs generated after all attempts
+2025-02-22 21:41:50,033 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:41:50,034 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of water. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:41:50,034 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:41:50,034 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:41:50,034 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:41:50,034 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:41:50,034 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of water. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:41:50,034 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:41:50,034 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:41:50,034 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:41:50,034 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:41:50,034 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of water. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:41:50,034 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:41:50,034 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:41:50,034 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:41:50,035 - INFO - No cache file found, starting with an empty cache.
+2025-02-22 21:41:50,035 - INFO - Sending request to Ollama for prompt: Generate a easy-level multiple-choice question (MCQ) on the topic of water. The question should have 4 unique, distinct options and one correct answer. Format it as:
+Question: <question>
+A) <option 1>
+B) <option 2>
+C) <option 3>
+D) <option 4>
+Answer: <correct option>
+2025-02-22 21:41:50,035 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 21:41:50,035 - WARNING - Validation failed: Empty MCQ string
+2025-02-22 21:41:50,035 - INFO - MCQ format invalid, skipping.
+2025-02-22 21:41:50,035 - INFO - No MCQs generated after all attempts
+2025-02-22 22:21:27,411 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Machine Learning. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,413 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,413 - INFO - No questions generated for subtopic: Machine Learning
+2025-02-22 22:21:27,413 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Machine Learning. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,413 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,413 - INFO - No questions generated for subtopic: Machine Learning
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Machine Learning. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Machine Learning
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Machine Learning. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Machine Learning
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Statistics. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Statistics
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Statistics. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Statistics
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Statistics. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Statistics
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Statistics. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Statistics
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Big Data Technologies. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Big Data Technologies
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Big Data Technologies. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Big Data Technologies
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Big Data Technologies. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Big Data Technologies
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Big Data Technologies. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Big Data Technologies
+2025-02-22 22:21:27,414 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Data Visualization. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,414 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,414 - INFO - No questions generated for subtopic: Data Visualization
+2025-02-22 22:21:27,415 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Data Visualization. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,415 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,415 - INFO - No questions generated for subtopic: Data Visualization
+2025-02-22 22:21:27,415 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Data Visualization. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,415 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,415 - INFO - No questions generated for subtopic: Data Visualization
+2025-02-22 22:21:27,415 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Data Visualization. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:21:27,415 - ERROR - Error during Ollama API call: Client.generate() got an unexpected keyword argument 'timeout'
+2025-02-22 22:21:27,415 - INFO - No questions generated for subtopic: Data Visualization
+2025-02-22 22:42:58,213 - INFO - Sending request to Ollama for prompt: Generate an easy-level multiple-choice question (MCQ) on the topic of Machine Learning. The question should have 4 unique, distinct options and one correct answer.
+2025-02-22 22:42:58,215 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-02-22 22:42:58,215 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x10733d3d0>
+2025-02-22 22:42:58,216 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-02-22 22:42:58,216 - DEBUG - send_request_headers.complete
+2025-02-22 22:42:58,216 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-02-22 22:42:58,216 - DEBUG - send_request_body.complete
+2025-02-22 22:42:58,216 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-02-22 22:51:26,653 - DEBUG - receive_response_headers.failed exception=KeyboardInterrupt()
+2025-02-22 22:51:26,656 - DEBUG - response_closed.started
+2025-02-22 22:51:26,657 - DEBUG - response_closed.complete
