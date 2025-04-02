@@ -24,7 +24,6 @@ Additionally, our platform will feature an intelligent quiz system that enables 
 Mind Map generator and accessibility: https://github.com/shivani1805/react-mindmap-app
 
 ## Tech Stack Used:
-
 1. Frontend:
   - React.js 
   - CSS 
