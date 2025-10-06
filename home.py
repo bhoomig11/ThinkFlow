@@ -6,7 +6,7 @@ st.set_page_config(page_title="Home", initial_sidebar_state="collapsed"
 )
 st.title("Welcome to 🧠 ThinkFlow!")
 
-# 📌 Pretty Box
+# Pretty Box
 def pretty_box(text, color="#4CAF50"):
     st.markdown(
         f"""
@@ -26,7 +26,7 @@ def pretty_box(text, color="#4CAF50"):
         unsafe_allow_html=True
     )
 
-# 📌 Display Example Boxes
+# Display Example Boxes
 pretty_box("I am an AI-powered digital learning enhancement tool. \n Please enter your details below to step into a new world of learning!", "#B1D4E0")  # Blue Box
 st.write("")
 st.write("")
