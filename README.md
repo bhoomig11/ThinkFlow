@@ -1,4 +1,4 @@
-# ThinkFlow - 🥇 CivicHacks 2025 Winner - Best Impact!!🥇
+# ThinkFlow - 🥇 CivicHacks 2025 Winner - Best Impact!🥇
 
 Structure:
 1. Streamlit App and LLM user personalisation app for ThinkFlow
