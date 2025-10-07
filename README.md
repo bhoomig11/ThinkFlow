@@ -1,5 +1,10 @@
 # ThinkFlow - 🥇 CivicHacks 2025 Winner - Best Impact!🥇
 
+## About the Project
+ThinkFlow is an AI-powered learning tool designed to make education more structured, accessible, and intuitive. It helps learners overcome information overload by transforming complex topics into personalized, easy-to-digest dynamic mind maps.
+
+Inspired by cognitive learning theories and visual learning techniques, ThinkFlow bridges the gap between raw information and deep understanding. Whether you're a student, educator or lifelong learner, ThinkFlow empowers you to grasp concepts faster and retain knowledge longer.
+
 Structure:
 1. Streamlit App and LLM user personalisation app for ThinkFlow
 2. Mind Map generator and accessibility
