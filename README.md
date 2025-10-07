@@ -19,9 +19,10 @@ By focusing on digital literacy and innovation our platform will help learners n
 We aim to build an innovative platform that utilizes LLM models to generate dynamic mind maps, allowing users to explore and visualize subtopics under a broader concept. This interactive approach will help users break down complex subjects, uncover related ideas, and deepen their understanding. 
 Additionally, our platform will feature an intelligent quiz system that enables users to test their knowledge, reinforce learning, and track their progress over time. By combining AI-driven insights with interactive learning, we strive to create an engaging and effective way to grasp and retain information.
 
-## Frontend Repository Link
+## Submission Link
 
-Mind Map generator and accessibility: https://github.com/shivani1805/react-mindmap-app
+**Video Demo:** https://youtu.be/bNSVfRP7BKI?si=kfMYrjaCxpM1m9vu
+**Frontend Repository Link:** Mind Map generator and accessibility: https://github.com/shivani1805/react-mindmap-app
 
 ## Tech Stack Used:
 1. Frontend:
