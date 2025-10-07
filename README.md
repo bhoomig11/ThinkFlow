@@ -25,7 +25,8 @@ Additionally, our platform will feature an intelligent quiz system that enables 
 
 ## Submission Link
 
-**Video Demo:** https://youtu.be/bNSVfRP7BKI?si=kfMYrjaCxpM1m9vu
+**Video Demo:** https://youtu.be/bNSVfRP7BKI?si=kfMYrjaCxpM1m9vu 
+
 **Frontend Repository Link:** Mind Map generator and accessibility: https://github.com/shivani1805/react-mindmap-app
 
 ## Tech Stack Used:
