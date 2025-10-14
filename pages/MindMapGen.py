@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 
-# MongoDB Connection (Use your actual connection string)
+# MongoDB Connection
 MONGO_URI = "mongodb+srv://ritika0204:ritikakumar@hack.6nemp.mongodb.net/?retryWrites=true&w=majority&appName=Hack"
 client = pymongo.MongoClient(MONGO_URI)
 db = client["mind_map_db"]  # Database Name
